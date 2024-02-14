@@ -1,4 +1,4 @@
-### Hi there 👋
+![자기 소개](https://capsule-render.vercel.app/api?type=soft&height=200&color=gradient&text=hello%20world!&fontAlign=50)
 
 <!--
 **Gieuun/Gieuun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
