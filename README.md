@@ -1,6 +1,6 @@
 ![자기 소개](https://capsule-render.vercel.app/api?type=soft&height=200&color=gradient&text=hello%20world!&fontAlign=50)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/Gieuun)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=https://github.com/Gieuun)](https://github.com/Gieuun)
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=gieuun)](https://solved.ac/gieuun/)
 
