@@ -9,7 +9,7 @@
 
 ###
 
-<img align="right" height="150" src=""  />
+<img align="right" height="150" src="https://github.com/Gieuun/Gieuun/blob/main/KakaoTalk_20240214_151116959.jpg"  />
 
 ###
 
